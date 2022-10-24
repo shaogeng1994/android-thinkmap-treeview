@@ -1,8 +1,8 @@
 package com.gyso.treeview.adapter;
 
+import android.support.annotation.NonNull;
 import android.view.View;
 
-import androidx.annotation.NonNull;
 
 import com.gyso.treeview.model.NodeModel;
 

@@ -5,7 +5,7 @@ import static java.lang.annotation.RetentionPolicy.SOURCE;
 import android.util.Log;
 import android.util.SparseArray;
 import android.util.SparseIntArray;
-import androidx.annotation.IntDef;
+import android.support.annotation.IntDef;
 import com.gyso.treeview.model.ITraversal;
 import com.gyso.treeview.model.NodeModel;
 import com.gyso.treeview.model.TreeModel;

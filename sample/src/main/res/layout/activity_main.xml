@@ -68,7 +68,7 @@
                 app:layout_constraintLeft_toRightOf="@+id/add_nodes_bt"
                 app:layout_constraintTop_toTopOf="parent" />
         </LinearLayout>
-        <com.google.android.material.switchmaterial.SwitchMaterial
+        <Switch
             android:id="@+id/drag_edit_mode_rd"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

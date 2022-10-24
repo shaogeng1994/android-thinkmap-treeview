@@ -2,7 +2,7 @@ package com.gyso.treeview.adapter;
 
 import android.view.ViewGroup;
 
-import androidx.annotation.NonNull;
+import android.support.annotation.NonNull;
 
 import com.gyso.treeview.line.BaseLine;
 import com.gyso.treeview.listener.TreeViewNotifier;

@@ -4,11 +4,11 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.SystemClock;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
-import androidx.appcompat.app.AppCompatActivity;
 import com.gyso.gysotreeviewapplication.base.Animal;
 import com.gyso.gysotreeviewapplication.base.AnimalTreeViewAdapter;
 import com.gyso.gysotreeviewapplication.databinding.ActivityMainBinding;

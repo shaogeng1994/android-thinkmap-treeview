@@ -2,12 +2,12 @@ package com.gyso.treeview.touch;
 
 import android.content.Context;
 import android.graphics.PointF;
+import android.support.animation.DynamicAnimation;
+import android.support.animation.FlingAnimation;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewConfiguration;
-import androidx.dynamicanimation.animation.DynamicAnimation;
-import androidx.dynamicanimation.animation.FlingAnimation;
 import com.gyso.treeview.TreeViewContainer;
 import com.gyso.treeview.listener.TreeViewControlListener;
 import com.gyso.treeview.util.TreeViewLog;

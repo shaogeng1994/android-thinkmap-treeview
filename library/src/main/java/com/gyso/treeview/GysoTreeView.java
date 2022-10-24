@@ -17,9 +17,8 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.FrameLayout;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.core.graphics.BitmapCompat;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
 
 import com.gyso.treeview.adapter.TreeViewAdapter;
 import com.gyso.treeview.cache_pool.PointPool;

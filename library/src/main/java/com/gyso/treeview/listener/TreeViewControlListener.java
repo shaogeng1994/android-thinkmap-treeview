@@ -2,7 +2,7 @@ package com.gyso.treeview.listener;
 
 import android.view.View;
 
-import androidx.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 import com.gyso.treeview.model.NodeModel;
 
